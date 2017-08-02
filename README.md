@@ -3,6 +3,11 @@ Production Counter
 
 
 web app, purely javascript,HTML, CSS
+procedural
+with data objects instantiated for each part
+
+DEPENDENCIES:
+not really, but started to incorporate chart.js.
 
 
 Estimates order finish time, capability, draws production graph. Indicates and counts machine downtime.
@@ -26,7 +31,7 @@ BUGs to do:
 
 
 <br>
--taking break at start breaks averager? 
+
 
 
 
