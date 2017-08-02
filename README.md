@@ -1,6 +1,10 @@
 # Producio
 Production Counter
 
+
+web app, purely javascript,HTML, CSS
+
+
 Estimates order finish time, capability, draws production graph. Indicates and counts machine downtime.
 </h5>
 <h6>
@@ -10,6 +14,8 @@ Before we start, if you are continuing production and some parts  have been done
 
 DEV W.I.P NOTES:
 <BR>
+
+-incorporate PHP and databases to make saving states and presets possible for user. Now you can use only CLIPBOARD to copy the JSON format savestate string.
 
 <br>
 BUGs to do:
